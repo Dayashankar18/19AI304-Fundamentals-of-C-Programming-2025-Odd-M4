@@ -96,7 +96,8 @@ int main() {
 }
 ```
 # Output:
-```Enter date (DD MM YYYY): 31 11 2023
+```
+Enter date (DD MM YYYY): 31 11 2023
 Invalid Date
 ```
 
